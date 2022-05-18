@@ -1,6 +1,5 @@
 # Machine_Learning_Final
 
-This model is built to determine the acceptablity of a car purchase using a Random Forest Classifier. It takes in the features of the car provided by the dataset, cleans the data and trains the model 
 
 1.) import all the proper libraries
 2.) upload the data set
